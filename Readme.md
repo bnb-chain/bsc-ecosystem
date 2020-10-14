@@ -153,97 +153,105 @@ A guide to available tools, components, and platforms for developing application
 |[rocketh](https://github.com/wighawag/rocketh) | A simple lib to test ethereum smart contract that allow to use whatever web3 lib and test runner you choose.|10|
 |[pytest-cobra](https://github.com/cobraframework/pytest-cobra) | PyTest plugin for testing smart contracts for Ethereum blockchain.| 10 |
 
+
 ### Security Tools
-[MythX](https://mythx.io/) - Security verification platform and tools ecosystem for Ethereum developers
-[Mythril](https://github.com/ConsenSys/mythril) - Open-source EVM bytecode security analysis tool
-[Oyente](https://github.com/melonproject/oyente) - Alternative static smart contract security analysis
-[Securify](https://securify.chainsecurity.com/) - Security scanner for Ethereum smart contracts
-[SmartCheck](https://tool.smartdec.net/) - Static smart contract security analyzer
-[Ethersplay](https://github.com/crytic/ethersplay) - EVM disassembler
-[Evmdis](https://github.com/Arachnid/evmdis) - Alternative EVM disassembler
-[Hydra](https://github.com/IC3Hydra/Hydra) - Framework for cryptoeconomic contract security, decentralised security bounties
-[Solgraph](https://github.com/raineorshine/solgraph) - Visualise Solidity control flow for smart contract security analysis
-[Manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool on Smart Contracts and Binaries
-[Slither](https://github.com/crytic/slither) - A Solidity static analysis framework
-[Adelaide](https://github.com/sec-bit/adelaide) - The SECBIT static analysis extension to Solidity compiler
-[solc-verify](https://github.com/SRI-CSL/solidity/) - A modular verifier for Solidity smart contracts
-[Solidity security blog](https://github.com/sigp/solidity-security-blog) - Comprehensive list of known attack vectors and common anti-patterns
-[Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected
-[Free Smart Contract Security Audit](https://callisto.network/smart-contract-audit/) - Free smart contract security audits from Callisto Network
-[Piet](https://piet.slock.it) - A visual Solidity architecture analyzer
+| Name  | Description  | Support on BSC(rate 1 to 10) |
+|  ---  |------------- | -----------------------------|
+| [MythX](https://mythx.io/) | Security verification platform and tools ecosystem for Ethereum developers | 10 |
+| [Mythril](https://github.com/ConsenSys/mythril) | Open-source EVM bytecode security analysis tool | 10 |
+| [Oyente](https://github.com/melonproject/oyente) | Alternative static smart contract security analysis | 10 |
+| [Securify](https://securify.chainsecurity.com/) | Security scanner for Ethereum smart contracts | 10 |
+| [SmartCheck](https://tool.smartdec.net/) | Static smart contract security analyzer | 10 |
+| [Ethersplay](https://github.com/crytic/ethersplay) | EVM disassembler | 10 |
+| [Evmdis](https://github.com/Arachnid/evmdis) | Alternative EVM disassembler | 10 |
+| [Hydra](https://github.com/IC3Hydra/Hydra) | Framework for cryptoeconomic contract security, decentralised security bounties | 10 |
+| [Solgraph](https://github.com/raineorshine/solgraph) | Visualise Solidity control flow for smart contract security analysis | 10 |
+| [Manticore](https://github.com/trailofbits/manticore) | Symbolic execution tool on Smart Contracts and Binaries | 10 |
+| [Slither](https://github.com/crytic/slither) | A Solidity static analysis framework | 10 |
+| [Adelaide](https://github.com/sec-bit/adelaide) | The SECBIT static analysis extension to Solidity compiler | 10 |
+| [solc-verify](https://github.com/SRI-CSL/solidity/) | A modular verifier for Solidity smart contracts | 10 |
+| [Solidity security blog](https://github.com/sigp/solidity-security-blog) | Comprehensive list of known attack vectors and common anti-patterns | 10 |
+| [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) | A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected | 10 |
+| [Free Smart Contract Security Audit](https://callisto.network/smart-contract-audit/) | Free smart contract security audits from Callisto Network | 10 |
+| [Piet](https://piet.slock.it) | A visual Solidity architecture analyzer | 10 |
 
 ### Monitoring
-* [Alethio](https://aleth.io/) - An advanced Ethereum analytics platform that provides live monitoring, insights and anomaly detection, token metrics, smart contract audits, graph visualization and blockchain search. Real-time market information and trading activities across Ethereum's decentralized exchanges can also be explored.
-* [amberdata.io](https://amberdata.io) - Provides live monitoring, insights and anomaly detection, token metrics, smart contract audits, graph visualization and blockchain search.
-* [Neufund - Smart Contract Watch](https://github.com/Neufund/smart-contract-watch) - A tool to monitor a number of smart contracts and transactions
-* [Scout](https://scout.cool/) - A live data feed of the activities and event logs of your smart contracts on Ethereum
-* [Tenderly](https://tenderly.co/) - A platform that gives users reliable smart contract monitoring and alerting in the form of a web dashboard without requiring users to host or maintain infrastructure
-* [Chainlyt](https://www.chainlyt.io/main/dashboard/contract) - Explore smart contracts with decoded transaction data, see how the contract is used and search transactions with specific function calls
-* [BlockScout](https://github.com/poanetwork/blockscout) - A tool for inspecting and analyzing EVM based blockchains. The only full featured blockchain explorer for Ethereum networks.
-* [Terminal](https://terminal.co/) - A control panel for monitoring dapps. Terminal can be used to monitor your users, dapp, blockchain infrastructure, transactions and more.
-* [Ethereum-watcher](https://github.com/HydroProtocol/ethereum-watcher) - An extensible framework written in Golang for listening to on-chain events and doing something in response.
+### Other Miscellaneous Tools
+| Name  | Description  | Support on BSC(rate 1 to 10) |
+|  ---  |------------- | -----------------------------|
+| [Alethio](https://aleth.io/) | An advanced Ethereum analytics platform that provides live monitoring, insights and anomaly detection, token metrics, smart contract audits, graph visualization and blockchain search. Real-time market information and trading activities across Ethereum's decentralized exchanges can also be explored. | 8(need add bsc support) |
+| [amberdata.io](https://amberdata.io) | Provides live monitoring, insights and anomaly detection, token metrics, smart contract audits, graph visualization and blockchain search. | 8(need add bsc support) |
+| [Neufund - Smart Contract Watch](https://github.com/Neufund/smart-contract-watch) | A tool to monitor a number of smart contracts and transactions | 10 |
+| [Scout](https://scout.cool/) | A live data feed of the activities and event logs of your smart contracts on Ethereum | 5(need add bsc support and contracts) |
+| [Tenderly](https://tenderly.co/) | A platform that gives users reliable smart contract monitoring and alerting in the form of a web dashboard without requiring users to host or maintain infrastructure | 8(need add bsc supoort) |
+| [Chainlyt](https://www.chainlyt.io/main/dashboard/contract) | Explore smart contracts with decoded transaction data, see how the contract is used and search transactions with specific function calls | Not accessable |
+| [BlockScout](https://github.com/poanetwork/blockscout) | A tool for inspecting and analyzing EVM based blockchains. The only full featured blockchain explorer for Ethereum networks. | 10 |
+| [Terminal](https://terminal.co/) | A control panel for monitoring dapps. Terminal can be used to monitor your users, dapp, blockchain infrastructure, transactions and more. | 10 |
+| [Ethereum-watcher](https://github.com/HydroProtocol/ethereum-watcher) | An extensible framework written in Golang for listening to on-chain events and doing something in response. | 10 |
 
 ### Other Miscellaneous Tools
-* [aragonPM](https://hack.aragon.org/docs/apm-intro.html) - a decentralized package manager powered by aragonOS and Ethereum. aragonPM enables decentralized governance over package upgrades, removing centralized points of failure.
-* [Truffle boxes](https://www.trufflesuite.com/boxes) - Packaged components for building DApps fast.
-   * [Cheshire](https://github.com/endless-nameless-inc/cheshire) - A local sandbox implementation of the CryptoKitties API and smart contracts, available as a Truffle Box
-* [Solc](https://solidity.readthedocs.io/en/latest/using-the-compiler.html) - Solidity compiler
-* [Sol-compiler](https://sol-compiler.com/) - Project-level Solidity compiler
-* [Solidity cli](https://github.com/pubkey/solidity-cli) - Compile solidity-code faster, easier and more reliable
-* [Solidity flattener](https://github.com/poanetwork/solidity-flattener) - Combine solidity project to flat file utility. Useful for visualizing imported contracts or for verifying your contract on Etherscan
-* [Sol-merger](https://github.com/RyuuGan/sol-merger) - Alternative, merges all imports into single file for solidity contracts
-* [RLP](https://github.com/ethereumjs/rlp) - Recursive Length Prefix Encoding in JavaScript
-* [eth-cli](https://github.com/protofire/eth-cli) - A collection of CLI tools to help with ethereum learning and development
-* [Ethereal](https://github.com/wealdtech/ethereal) - Ethereal is a command line tool for managing common tasks in Ethereum
-* [Eth crypto](https://github.com/pubkey/eth-crypto) - Cryptographic javascript-functions for Ethereum and tutorials to use them with web3js and solidity
-* [Parity Signer](https://github.com/paritytech/parity-signer) - mobile app allows signing transactions
-* [py-eth](http://py-eth.com) - Collection of Python tools for the Ethereum ecosystem
-* [truffle-flattener](https://github.com/nomiclabs/truffle-flattener) - Concats solidity files developed under Truffle with all of their dependencies
-* [Decode](https://github.com/hacker-DOM/decode) - npm package which parses tx's submitted to a local testrpc node to make them more readable and easier to understand
-* [TypeChain](https://github.com/ethereum-ts/TypeChain) - Typescript bindings for Ethereum smartcontracts
-* [EthSum](https://ethsum.netlify.com) - A Simple Ethereum Address Checksum Tool
-* [PHP based Blockchain indexer](https://github.com/digitaldonkey/ethereum-php-eventlistener) - allows indexing blocks or listening to Events in PHP
-* [Purser](https://github.com/JoinColony/purser) - JavaScript universal wallet tool for Ethereum-based wallets. Supports software, hardware, and Metamask -- brings all wallets into a consistent and predictable interface for dApp development.
-* [Node-Metamask](https://github.com/JoinColony/node-metamask) - Connect to MetaMask from node.js
-* [Solidity-docgen](https://github.com/OpenZeppelin/solidity-docgen) - Documentation generator for Solidity projects
-* [Ethereum ETL](https://github.com/blockchain-etl/ethereum-etl) - Export Ethereum blockchain data to CSV or JSON files
-* [prettier-plugin-solidity](https://github.com/prettier-solidity/prettier-plugin-solidity) - Prettier plugin for formatting Solidity code
-* [Unity3dSimpleSample](https://github.com/Nethereum/Unity3dSimpleSample) - Ethereum and Unity integration demo
-* [Flappy](https://github.com/Nethereum/Nethereum.Flappy) - Ethereum and Unity integration demo/sample
-* [Wonka](https://github.com/Nethereum/Wonka) - Nethereum business rules engine demo/sample
-* [Resolver-Engine](https://github.com/Crypto-Punkers/resolver-engine) - A set of tools to standarize Solidity import and artifact resolution in frameworks.
-* [eth-reveal](https://github.com/justinjmoses/eth-reveal) - A node and browser tool to inspect transactions - decoding where possible the method, event logs and any revert reasons using ABIs found online. 
-* [Ethereum-tx-sender](https://github.com/HydroProtocol/ethereum-tx-sender) - A useful library written in Golang to reliably send a transaction — abstracting away some of the tricky low level details such as gas optimization, nonce calculations, synchronization, and retries.
+| Name  | Description  | Support on BSC(rate 1 to 10) |
+|  ---  |------------- | -----------------------------|
+| [aragonPM](https://hack.aragon.org/docs/apm-intro.html) | a decentralized package manager powered by aragonOS and Ethereum. aragonPM enables decentralized governance over package upgrades, removing centralized points of failure. | 10 |
+| [Truffle boxes](https://www.trufflesuite.com/boxes) | Packaged components for building DApps fast. | 10 |
+| [Cheshire](https://github.com/endless-nameless-inc/cheshire) | A local sandbox implementation of the CryptoKitties API and smart contracts, available as a Truffle Box | 10  |
+| [Solc](https://solidity.readthedocs.io/en/latest/using-the-compiler.html) | Solidity compiler | 10 |
+| [Sol-compiler](https://sol-compiler.com/) | Project-level Solidity compiler | 10 |
+| [Solidity cli](https://github.com/pubkey/solidity-cli) | Compile solidity-code faster, easier and more reliable | 10 |
+| [Solidity flattener](https://github.com/poanetwork/solidity-flattener) | Combine solidity project to flat file utility. Useful for visualizing imported contracts or for verifying your contract on Etherscan | 10 |
+| [Sol-merger](https://github.com/RyuuGan/sol-merger) | Alternative, merges all imports into single file for solidity contracts | 10 |
+| [RLP](https://github.com/ethereumjs/rlp) | Recursive Length Prefix Encoding in JavaScript | 10  |
+| [eth-cli](https://github.com/protofire/eth-cli) | A collection of CLI tools to help with ethereum learning and development | 8(need add bsc support) |
+| [Ethereal](https://github.com/wealdtech/ethereal) | Ethereal is a command line tool for managing common tasks in Ethereum | 8(need add bsc support)  |
+| [Eth crypto](https://github.com/pubkey/eth-crypto) | Cryptographic javascript-functions for Ethereum and tutorials to use them with web3js and solidity | 10 |
+| [Parity Signer](https://github.com/paritytech/parity-signer) | mobile app allows signing transactions | 10 |
+| [py-eth](http://py-eth.com) | Collection of Python tools for the Ethereum ecosystem | 10 |
+| [truffle-flattener](https://github.com/nomiclabs/truffle-flattener) | Concats solidity files developed under Truffle with all of their dependencies | 10 |
+| [Decode](https://github.com/hacker-DOM/decode) | npm package which parses tx's submitted to a local testrpc node to make them more readable and easier to understand | 10 |
+| [TypeChain](https://github.com/ethereum-ts/TypeChain) | Typescript bindings for Ethereum smartcontracts | 10 |
+| [EthSum](https://ethsum.netlify.com) | A Simple Ethereum Address Checksum Tool | 10 |
+| [PHP based Blockchain indexer](https://github.com/digitaldonkey/ethereum-php-eventlistener) | allows indexing blocks or listening to Events in PHP | 10  |
+| [Purser](https://github.com/JoinColony/purser) | JavaScript universal wallet tool for Ethereum-based wallets. Supports software, hardware, and Metamask -- brings all wallets into a consistent and predictable interface for dApp development. | 10 |
+| [Node-Metamask](https://github.com/JoinColony/node-metamask) | Connect to MetaMask from node.js | 10  |
+| [Solidity-docgen](https://github.com/OpenZeppelin/solidity-docgen) | Documentation generator for Solidity projects | 10 |
+| [Ethereum ETL](https://github.com/blockchain-etl/ethereum-etl) | Export Ethereum blockchain data to CSV or JSON files | 10 |
+| [prettier-plugin-solidity](https://github.com/prettier-solidity/prettier-plugin-solidity) | Prettier plugin for formatting Solidity code | 10 |
+| [Unity3dSimpleSample](https://github.com/Nethereum/Unity3dSimpleSample) | Ethereum and Unity integration demo | 10  |
+| [Flappy](https://github.com/Nethereum/Nethereum.Flappy) | Ethereum and Unity integration demo/sample | 10  |
+| [Wonka](https://github.com/Nethereum/Wonka) | Nethereum business rules engine demo/sample | 10 |
+| [Resolver-Engine](https://github.com/Crypto-Punkers/resolver-engine) | A set of tools to standarize Solidity import and artifact resolution in frameworks. | 10 |
+| [eth-reveal](https://github.com/justinjmoses/eth-reveal) | A node and browser tool to inspect transactions - decoding where possible the method, event logs and any revert reasons using ABIs found online.  | 8(Need adding BSC rpc)  |
+| [Ethereum-tx-sender](https://github.com/HydroProtocol/ethereum-tx-sender) | A useful library written in Golang to reliably send a transaction — abstracting away some of the tricky low level details such as gas optimization, nonce calculations, synchronization, and retries. | 10 |
 
 
 #### Popular Smart Contract Libraries
-* [Zeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts) - Contains tested reusable smart contracts like SafeMath and OpenZeppelin SDK [library](https://github.com/OpenZeppelin/openzeppelin-sdk) for smart contract upgradeability
-* [cryptofin-solidity](https://github.com/cryptofinlabs/cryptofin-solidity) - A collection of Solidity libraries for building secure and gas-efficient smart contracts on Ethereum.
-* [Modular Libraries](https://github.com/Modular-Network/ethereum-libraries) - A group of packages built for use on blockchains utilising the Ethereum Virtual Machine
-* [DateTime Library](https://github.com/bokkypoobah/BokkyPooBahsDateTimeLibrary) - A gas-efficient Solidity date and time library
-* [Aragon](https://github.com/aragon/aragon) - DAO protocol. Contains [aragonOS smart contract framework](https://github.com/aragon/aragonOS) with focus on upgradeability and governance
-* [ARC](https://github.com/daostack/arc) - an operating system for DAOs and the base layer of the DAO stack.
-* [0x](https://github.com/0xProject) - DEX protocol
-* [Token Libraries with Proofs](https://github.com/sec-bit/tokenlibs-with-proofs) - Contains correctness proofs of token contracts wrt. given specifications and high-level properties
-* [Provable API](https://github.com/provable-things/ethereum-api) - Provides contracts for using the Provable service, allowing for off-chain actions, data-fetching, and computation
-
-
+| Name  | Description  | Support on BSC(rate 1 to 10) |
+|  ---  |------------- | -----------------------------|
+| [Zeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts) | Contains tested reusable smart contracts like SafeMath and OpenZeppelin SDK [library](https://github.com/OpenZeppelin/openzeppelin-sdk) for smart contract upgradeability | 10 |
+| [cryptofin-solidity](https://github.com/cryptofinlabs/cryptofin-solidity) | A collection of Solidity libraries for building secure and gas-efficient smart contracts on Ethereum. | 10 |
+| [Modular Libraries](https://github.com/Modular-Network/ethereum-libraries) | A group of packages built for use on blockchains utilising the Ethereum Virtual Machine | 10 |
+| [DateTime Library](https://github.com/bokkypoobah/BokkyPooBahsDateTimeLibrary) | A gas-efficient Solidity date and time library | 10 |
+| [Aragon](https://github.com/aragon/aragon) | DAO protocol. Contains [aragonOS smart contract framework](https://github.com/aragon/aragonOS) with focus on upgradeability and governance | 10 |
+| [ARC](https://github.com/daostack/arc) | an operating system for DAOs and the base layer of the DAO stack. | 10 |
+| [0x](https://github.com/0xProject) | DEX protocol | 10 |
+| [Token Libraries with Proofs](https://github.com/sec-bit/tokenlibs-with-proofs) | Contains correctness proofs of token contracts wrt. given specifications and high-level properties | 10 |
+| [Provable API](https://github.com/provable-things/ethereum-api) | Provides contracts for using the Provable service, allowing for off-chain actions, data-fetching, and computation | 10 |
 
 #### Prebuilt UI Components
-* [aragonUI](https://ui.aragon.org) - A React library including Dapp components
-* [components.bounties.network](https://components.bounties.network) - A React library including Dapp components
-* [ui.decentraland.org](https://github.com/decentraland/ui) - A React library including Dapp components
-* [dapparatus](https://github.com/austintgriffith/dapparatus) - Reusable React Dapp components
-* [Metamask ui](https://github.com/MetaMask/metamask-extension/tree/develop/ui/app/components) - Metamask React Components
-* [DappHybrid](https://github.com/Nethereum/Nethereum.DappHybrid) - A cross-platform hybrid hosting mechanism for web based decentralised applications
-* [Nethereum.UI.Desktop](https://github.com/Nethereum/Nethereum.UI.Desktop) - Cross-platform desktop wallet sample
-* [eth-button](https://eth-button.github.io/eth-button/) - Minimalist donation button
-* [Rimble Design System](https://rimble.consensys.design/) - Adaptable components and design standards for decentralized applications.
-* [3Box Plugins](https://docs.3box.io/build/plugins) - Drop in react components for social functionality. Including comments, profiles and messaging.
 
-
-### 
-* [Atra Blockchain Services](https://console.atra.io) - Atra provides web services to help you build, deploy, and maintain decentralized applications on the Ethereum blockchain.
+| Name  | Description  | Support on BSC(rate 1 to 10) |
+|  ---  |------------- | -----------------------------|
+| [aragonUI](https://ui.aragon.org) | A React library including Dapp components | 10 |
+| [components.bounties.network](https://components.bounties.network) | A React library including Dapp components | 10 |
+| [ui.decentraland.org](https://github.com/decentraland/ui) | A React library including Dapp components | 10 |
+| [dapparatus](https://github.com/austintgriffith/dapparatus) | Reusable React Dapp components | 10 |
+| [Metamask ui](https://github.com/MetaMask/metamask-extension/tree/develop/ui/app/components) | Metamask React Components | 10 |
+| [DappHybrid](https://github.com/Nethereum/Nethereum.DappHybrid) | A cross-platform hybrid hosting mechanism for web based decentralised applications | 10 |
+| [Nethereum.UI.Desktop](https://github.com/Nethereum/Nethereum.UI.Desktop) | Cross-platform desktop wallet sample | 10 |
+| [eth-button](https://eth-button.github.io/eth-button/) | Minimalist donation button | 10 |
+| [Rimble Design System](https://rimble.consensys.design/) | Adaptable components and design standards for decentralized applications. | 10 |
+| [3Box Plugins](https://docs.3box.io/build/plugins) | Drop in react components for social functionality. Including comments, profiles and messaging. | 10 |
+| [Atra Blockchain Services](https://console.atra.io) | Atra provides web services to help you build, deploy, and maintain decentralized applications on the Ethereum blockchain. | 10 |
 
 
 ### Requirement from Community
