@@ -31,23 +31,29 @@ A guide to available tools, components, and platforms for developing application
 
 ### Other tools
 | Name  | Description  | Support on BSC(rate 1 to 10) |
+|  ---  |---|---|
 |[Buidler](https://buidler.dev/)| Extensible developer tool that helps smart contract developers increase productivity by reliably bringing together the tools they want.| 10 |
 |[Azure Blockchain Dev Kit for BSC for VSCode](https://marketplace.visualstudio.com/items?itemName=AzBlockchain.azure-blockchain)| VSCode extension that allows for creating smart contracts and deploying them inside of Visual Studio Code|10|
 
 
 ### Test blockchain networks
 | Name  | Description  | Support on BSC(rate 1 to 10) |
+|  ---  |---|---|
 |[bscnode](https://docs.binance.org/smart-chain/developer/fullnode.html) | Run an BSC node for development |10|
 |[Ganache](https://github.com/trufflesuite/ganache)| App for test BSC blockchain with visual UI and logs, except for some precompile contract, the rest is same|9|
 |[Local BSC Network](https://github.com/ConsenSys/local_ethereum_network)| User can simply set up a bsc network using clique consensus|10|
 
 #### Test Ether faucets
-[BSC faucet](https://testnet.binance.org/faucet-smart)
+
+| Name  | Description  | Support on BSC(rate 1 to 10) |
+|  ---  |---|---|
+|[BSC faucet](https://testnet.binance.org/faucet-smart)| |10|
 
 
 ### Communicating with BSC
 #### Frontend BSC APIs
 | Name  | Description  | Support on BSC(rate 1 to 10) |
+|  ---  |---|---|
 |[Web3.js](https://github.com/ethereum/web3.js/)| Javascript Web3 | 10| 
 |[Eth.js](https://github.com/ethjs)| Javascript Web3 alternative | 10 |
 |[Ethers.js](https://github.com/ethers-io/ethers.js/)| Javascript Web3 alternative, useful utilities and wallet features | 10|
@@ -56,7 +62,6 @@ A guide to available tools, components, and platforms for developing application
 |[Ethereumjs](https://github.com/ethereumjs/) - A collection of utility functions for Ethereum like [ethereumjs-util](https://github.com/ethereumjs/ethereumjs-util) and [ethereumjs-tx](https://github.com/ethereumjs/ethereumjs-tx)|10|
 |[flex-contract](https://github.com/merklejerk/flex-contract) and [flex-ether](https://github.com/merklejerk/flex-ether)|  Modern, zero-configuration, high-level libraries for interacting with smart contracts and making transactions.|10|
 |[web3x](https://github.com/xf00f/web3x)|  A TypeScript port of web3.js. Benefits includes tiny builds and full type safety, including when interacting with contracts.
-
 |[Nethereum](https://github.com/Nethereum/)| Cross-platform Ethereum development framework | 10 |
 |[Drizzle](https://github.com/truffle-box/drizzle-box)| Redux library to connect a frontend to a blockchain| 10| 
 |[Tasit SDK](https://github.com/tasitlabs/tasitsdk)| A JavaScript SDK for making native mobile Ethereum dapps using React Native| 10|
@@ -68,6 +73,7 @@ A guide to available tools, components, and platforms for developing application
 
 #### Backend BSC APIs
 | Name  | Description  | Support on BSC(rate 1 to 10) |
+|  ---  |---|---|
 |[Web3.py](https://github.com/ethereum/web3.py)| Python Web3| 10|
 |[Web3.php](https://github.com/sc0Vu/web3.php) |PHP Web3| 10 |
 |[Ethereum-php](https://github.com/digitaldonkey/ethereum-php)| PHP Web3| 10 |
@@ -86,6 +92,7 @@ A guide to available tools, components, and platforms for developing application
 
 #### Bootstrap/out of box tools
 | Name  | Description  | Support on BSC(rate 1 to 10) |
+|  ---  |---|---|
 |[Truffle boxes](https://trufflesuite.com/boxes)| Packaged components for the Ethereum ecosystem| 10 |
 |[Private networks deployment scripts](https://github.com/ConsenSys/private-networks-deployment-scripts)| Out-of-the-box deployment scripts for private PoA networks| 10 |
 |[Local Ethereum Network](https://github.com/ConsenSys/local_ethereum_network)| Out-of-the-box deployment scripts for private PoW networks| 10 |
@@ -97,6 +104,7 @@ A guide to available tools, components, and platforms for developing application
 #### Ethereum ABI (Application Binary Interface) tools
 
 | Name  | Description  | Support on BSC(rate 1 to 10) |
+|  ---  |---|---|
 |[ABI decoder](https://github.com/ConsenSys/abi-decoder) | library for decoding data params and events from Ethereum transactions| 10|
 |[ABI-gen](https://github.com/0xProject/0x-monorepo/tree/development/packages/abi-gen)| Generate Typescript contract wrappers from contract ABI's.|10|
 |[Ethereum ABI UI](https://github.com/hiddentao/ethereum-abi-ui) | Auto-generate UI form field definitions and associated validators from an Ethereum contract ABI|10|
@@ -108,16 +116,22 @@ A guide to available tools, components, and platforms for developing application
 
 ### Infrastructure
 #### Ethereum Clients
+| Name  | Description  | Support on BSC(rate 1 to 10) |
+|  ---  |---|---|
 |[Seth](https://github.com/dapphub/dapptools/tree/master/src/seth)| Seth is an Ethereum client tool—like a "MetaMask for the command line"|10 |
 
 
 #### Messaging
+| Name  | Description  | Support on BSC(rate 1 to 10) |
+|  ---  |---|---|
 |[Whisper](https://github.com/ethereum/wiki/wiki/Whisper)| Communication protocol for DApps to communicate with each other, a native base layer service of the Ethereum web3 stack|10|
 |[DEVp2p Wire Protocol](https://github.com/ethereum/devp2p/blob/master/rlpx.md)| Peer-to-peer communications between nodes running Ethereum/Whisper| 10|
 |[Pydevp2p](https://github.com/ethereum/pydevp2p) | Python implementation of the RLPx network layer| 10|
 |[3Box Threads](https://docs.3box.io/api/messaging)| API to allow developers to implement IPFS persisted, or in memory peer to peer messaging.|10|
 
 ### Testing Tools
+| Name  | Description  | Support on BSC(rate 1 to 10) |
+|  ---  |---|---|
 |[Solidity code coverage](https://github.com/0xProject/0x-monorepo/tree/development/packages/sol-coverage)| Solidity code coverage tool | 10| 
 |[Solidity coverage](https://github.com/sc-forks/solidity-coverage) | Alternative code coverage for Solidity smart-contracts| 10|
 |[Solidity function profiler](https://github.com/EricR/sol-function-profiler) - Solidity contract function profiler| 10 |
