@@ -34,7 +34,6 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
   * [Security Tools](#security-tools)
   * [Monitoring](#monitoring)
   * [Other Miscellaneous Tools](#other-miscellaneous-tools)
-  * [Other Miscellaneous Tools](#other-miscellaneous-tools-1)
     + [Popular Smart Contract Libraries](#popular-smart-contract-libraries)
     + [Prebuilt UI Components](#prebuilt-ui-components)
     + [Dapp Tools](#dapp-tools)
@@ -226,7 +225,6 @@ Binance Smart Chain Config:
 | [Piet](https://piet.slock.it) | A visual Solidity architecture analyzer |  :white_check_mark: |
 
 ### Monitoring
-### Other Miscellaneous Tools
 | Name  | Description  | Support|
 |  ---  |------------- | -----------------------------|
 | [Neufund - Smart Contract Watch](https://github.com/Neufund/smart-contract-watch) | A tool to monitor a number of smart contracts and transactions | :heavy_check_mark: |
