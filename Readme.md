@@ -1,8 +1,8 @@
 # BSC Developer Ecosystem
 
-A guide to available tools, components, and platforms for developing applications on BSC. 
+A guide to available tools, components, and platforms for developing applications on BSC.
 
-This list was forked from [ConsenSys](https://github.com/ConsenSys/ethereum-developer-tools-list), and we verified most of the parts on BSC. 
+This list was forked from [ConsenSys](https://github.com/ConsenSys/ethereum-developer-tools-list), and we verified most of the parts on BSC.
 We hope both new and experienced blockchain developers can benefit from this list.
 
 ## Contributions are welcome!
@@ -12,11 +12,38 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 - Projects that do not have a working product will not be added.
 - Projects that are deprecated or no longer maintained will be removed.
 - Projects that are paid/restricted services without open source code or developer reviews will be further vetted.
+
+## Table of Contents
+- [Developer Tools](#developer-tools)
+  * [Developing Smart Contracts](#developing-smart-contracts)
+    + [Smart Contract Languages](#smart-contract-languages)
+    + [Frameworks](#frameworks)
+    + [IDEs](#ides)
+  * [Other tools](#other-tools)
+  * [Test blockchain networks](#test-blockchain-networks)
+    + [Test BNB&BEP20 faucets](#test-bnb-bep20-faucets)
+  * [Communicating with BSC](#communicating-with-bsc)
+    + [Frontend BSC APIs](#frontend-bsc-apis)
+    + [Backend BSC APIs](#backend-bsc-apis)
+    + [Bootstrap/out of box tools](#bootstrap-out-of-box-tools)
+    + [Ethereum ABI (Application Binary Interface) tools](#ethereum-abi--application-binary-interface--tools)
+  * [Infrastructure](#infrastructure)
+    + [Ethereum Clients](#ethereum-clients)
+    + [Messaging](#messaging)
+  * [Testing Tools](#testing-tools)
+  * [Security Tools](#security-tools)
+  * [Monitoring](#monitoring)
+  * [Other Miscellaneous Tools](#other-miscellaneous-tools)
+  * [Other Miscellaneous Tools](#other-miscellaneous-tools-1)
+    + [Popular Smart Contract Libraries](#popular-smart-contract-libraries)
+    + [Prebuilt UI Components](#prebuilt-ui-components)
+    + [Dapp Tools](#dapp-tools)
+
 ## Developer Tools
 
 We separate the support of tools/infra into:
 
-- :white_check_mark: seamless support.  
+- :white_check_mark: seamless support.
 - :heavy_check_mark: need custom config bsc network.
 
 Binance Smart Chain Config:
@@ -24,7 +51,7 @@ Binance Smart Chain Config:
 - ChainId. Mainnet(56), Testnet(97).
 - RPC Endpoints. Mainnet(https://bsc-dataseed.binance.org/), Testnet(https://data-seed-prebsc-1-s1.binance.org:8545/). [More Endpoints](https://docs.binance.org/smart-chain/developer/rpc.html)
 - [Explorer](https://bscscan.com/)
-- [Faucet](https://testnet.binance.org/faucet-smart). 
+- [Faucet](https://testnet.binance.org/faucet-smart).
 
 ### Developing Smart Contracts
 #### Smart Contract Languages
@@ -41,7 +68,7 @@ Binance Smart Chain Config:
 |[Truffle](https://trufflesuite.com/)| Most popular smart contract development, testing, and deployment framework.| :heavy_check_mark:|
 |[Embark](https://github.com/embark-framework/embark)| Framework for DApp development | :heavy_check_mark: |
 |[Waffle](https://getwaffle.io/)| Framework for advanced smart contract development and testing, small, flexible, fast (based on ethers.js)| :heavy_check_mark: |
-|[Dapp](https://dapp.tools/dapp/)| - Framework for DApp development, successor to DApple| :heavy_check_mark: |
+|[Dapp](https://dapp.tools/dapp/)| Framework for DApp development, successor to DApple| :heavy_check_mark: |
 |[OpenZeppelin SDK](https://openzeppelin.com/sdk/)| OpenZeppelin SDK: A suite of tools to help you develop, compile, upgrade, deploy and interact with smart contracts.| :heavy_check_mark:|
 |[0xcert](https://github.com/0xcert/framework/)| JavaScript framework for building decentralized applications|:heavy_check_mark:|
 
@@ -65,7 +92,7 @@ Binance Smart Chain Config:
 |[Ganache](https://github.com/trufflesuite/ganache)| App for test BSC blockchain with visual UI and logs, except for some precompile contract, the rest is same|:white_check_mark:|
 |[Local BSC Network](https://github.com/ConsenSys/local_ethereum_network)| User can simply set up a bsc network using clique consensus|:white_check_mark:|
 
-#### Test Ether faucets
+#### Test BNB&BEP20 faucets
 
 | Name  | Description  | Support |
 |  ---  |---|---|
@@ -76,7 +103,7 @@ Binance Smart Chain Config:
 #### Frontend BSC APIs
 | Name  | Description  | Support |
 |  ---  |---|---|
-|[Web3.js](https://github.com/ethereum/web3.js/)| Javascript Web3 | :white_check_mark: | 
+|[Web3.js](https://github.com/ethereum/web3.js/)| Javascript Web3 | :white_check_mark: |
 |[Eth.js](https://github.com/ethjs)| Javascript Web3 alternative | :white_check_mark: |
 |[Ethers.js](https://github.com/ethers-io/ethers.js/)| Javascript Web3 alternative, useful utilities and wallet features | :white_check_mark:|
 |[light.js](https://github.com/paritytech/js-libs/tree/master/packages/light.js)| A high-level reactive JS library optimized for light clients| :white_check_mark:|
@@ -85,7 +112,7 @@ Binance Smart Chain Config:
 |[flex-contract](https://github.com/merklejerk/flex-contract) and [flex-ether](https://github.com/merklejerk/flex-ether)|  Modern, zero-configuration, high-level libraries for interacting with smart contracts and making transactions.|:white_check_mark:|
 |[web3x](https://github.com/xf00f/web3x)|  A TypeScript port of web3.js. Benefits includes tiny builds and full type safety, including when interacting with contracts.|:white_check_mark:|
 |[Nethereum](https://github.com/Nethereum/)| Cross-platform Ethereum development framework | :white_check_mark: |
-|[Drizzle](https://github.com/truffle-box/drizzle-box)| Redux library to connect a frontend to a blockchain| :white_check_mark:| 
+|[Drizzle](https://github.com/truffle-box/drizzle-box)| Redux library to connect a frontend to a blockchain| :white_check_mark:|
 |[Tasit SDK](https://github.com/tasitlabs/tasitsdk)| A JavaScript SDK for making native mobile Ethereum dapps using React Native| :white_check_mark:|
 |[Subproviders](https://0x.org/docs/tools/subproviders)| Several useful subproviders to use in conjunction with [Web3-provider-engine](https://github.com/MetaMask/web3-provider-engine) (including a LedgerSubprovider for adding Ledger hardware wallet support to your dApp)| :white_check_mark: |
 |[web3-react](https://github.com/NoahZinsmeister/web3-react)| React framework for building single-page Ethereum dApps | :white_check_mark: |
@@ -106,9 +133,9 @@ Binance Smart Chain Config:
 |[KEthereum](https://github.com/komputing/KEthereum) | Kotlin Web3 | :white_check_mark: |
 |[Eventeum](https://github.com/ConsenSys/eventeum)| A bridge between Ethereum smart contract events and backend microservices, written in Java by Kauri| :white_check_mark: |
 |[Ethereumex](https://github.com/mana-ethereum/ethereumex)| Elixir JSON-RPC client for the Ethereum blockchain | :white_check_mark: |
-|[Ethereum-jsonrpc-gateway](https://github.com/HydroProtocol/ethereum-jsonrpc-gateway)| A gateway that allows you to run multiple Ethereum nodes for redundancy and load-balancing purposes. Can be ran as an alternative to (or on top of) Infura. Written in Golang.| :white_check_mark: | 
+|[Ethereum-jsonrpc-gateway](https://github.com/HydroProtocol/ethereum-jsonrpc-gateway)| A gateway that allows you to run multiple Ethereum nodes for redundancy and load-balancing purposes. Can be ran as an alternative to (or on top of) Infura. Written in Golang.| :white_check_mark: |
 |[EthContract](https://github.com/AgileAlpha/eth_contract) | A set of helper methods to help query ETH smart contracts in Elixir|:white_check_mark:|
-|[Ethereum Contract Service](https://github.com/mesg-foundation/service-ethereum-contract) |A MESG Service to interact with any Ethereum contract based on its address and ABI.| :white_check_mark:| 
+|[Ethereum Contract Service](https://github.com/mesg-foundation/service-ethereum-contract) |A MESG Service to interact with any Ethereum contract based on its address and ABI.| :white_check_mark:|
 |[Ethereum Service](https://github.com/mesg-foundation/service-ethereum)| A MESG Service to interact with events from Ethereum and interact with it.|:white_check_mark:|
 |[Marmo](https://marmo.io/)| Python, JS, and Java SDK for simplifying interactions with Ethereum. Uses relayers to offload transaction costs to relayers.|:white_check_mark:|
 
@@ -133,7 +160,7 @@ Binance Smart Chain Config:
 |[headlong](https://github.com/esaulpaugh/headlong/) | type-safe Contract ABI and Recursive Length Prefix library in Java| :white_check_mark: |
 |[Truffle Pig](https://npmjs.com/package/trufflepig) | a development tool that provides a simple HTTP API to find and read from Truffle-generated contract files, for use during local development. Serves fresh contract ABIs over http.|  :white_check_mark:|
 |[Ethereum Contract Service](https://github.com/mesg-foundation/service-ethereum-contract) | A MESG Service to interact with any Ethereum contract based on its address and ABI.|  :white_check_mark: |
-|[Nethereum-CodeGenerator](https://github.com/StefH/Nethereum-CodeGenerator) | A web based generator which creates a Nethereum based C# Interface and Service based on Solidity Smart Contracts.|  :white_check_mark:| 
+|[Nethereum-CodeGenerator](https://github.com/StefH/Nethereum-CodeGenerator) | A web based generator which creates a Nethereum based C# Interface and Service based on Solidity Smart Contracts.|  :white_check_mark:|
 
 
 ### Infrastructure
@@ -155,7 +182,7 @@ Binance Smart Chain Config:
 ### Testing Tools
 | Name  | Description  | Support|
 |  ---  |---|---|
-|[Solidity code coverage](https://github.com/0xProject/0x-monorepo/tree/development/packages/sol-coverage)| Solidity code coverage tool |  :white_check_mark:| 
+|[Solidity code coverage](https://github.com/0xProject/0x-monorepo/tree/development/packages/sol-coverage)| Solidity code coverage tool |  :white_check_mark:|
 |[Solidity coverage](https://github.com/sc-forks/solidity-coverage) | Alternative code coverage for Solidity smart-contracts|  :white_check_mark:|
 |[Solidity function profiler](https://github.com/EricR/sol-function-profiler) | Solidity contract function profiler|  :white_check_mark: |
 |[Sol-profiler](https://github.com/Aniket-Engg/sol-profiler) | Alternative and updated Solidity smart contract profiler|   :white_check_mark: |
@@ -271,4 +298,4 @@ Binance Smart Chain Config:
 
 | Name  | Description  | Support |
 |  ---  |------------- | -----------------------------|
-|[approve.sh](https://dappcn.mathwallet.xyz/approve.sh/)|manage approval of account| :white_check_mark: | 
+|[approve.sh](https://dappcn.mathwallet.xyz/approve.sh/)|manage approval of account| :white_check_mark: |
