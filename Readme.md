@@ -2,7 +2,7 @@
 
 A guide to available tools, components, and platforms for developing applications on BSC. 
 
-This list was spurred by the [ConsenSys](https://github.com/ConsenSys/ethereum-developer-tools-list), and we verified most of the parts on BSC. 
+This list was forked from [ConsenSys](https://github.com/ConsenSys/ethereum-developer-tools-list), and we verified most of the parts on BSC. 
 We hope both new and experienced blockchain developers can benefit from this list.
 
 ## Contributions are welcome!
