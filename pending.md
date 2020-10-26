@@ -13,4 +13,3 @@
 * BSC on Google Cloud.
 * [ez-ens](https://github.com/merklejerk/ez-ens), Simple, zero-configuration Ethereum Name Service address resolver
 * [amberdata.io](https://amberdata.io),Provides live monitoring, insights and anomaly detection, token metrics, smart contract audits, graph visualization and blockchain search.
-* [gasnow](https://gasnow.sparkpool.com/), a tools to predict the gas price on Ethereum.

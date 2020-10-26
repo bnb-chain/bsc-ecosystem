@@ -19,6 +19,13 @@ We separate the support of tools/infra into:
 - :white_check_mark: seamless support.  
 - :heavy_check_mark: need custom config bsc network.
 
+Binance Smart Chain Config:
+
+- ChainId. Mainnet(56), Testnet(97).
+- RPC Endpoints. Mainnet(https://bsc-dataseed.binance.org/), Testnet(https://data-seed-prebsc-1-s1.binance.org:8545/). [More Endpoints](https://docs.binance.org/smart-chain/developer/rpc.html)
+- [Explorer](https://bscscan.com/)
+- [Faucet](https://testnet.binance.org/faucet-smart). 
+
 ### Developing Smart Contracts
 #### Smart Contract Languages
 
