@@ -65,7 +65,7 @@ Binance Smart Chain Config:
 |[Ganache](https://github.com/trufflesuite/ganache)| App for test BSC blockchain with visual UI and logs, except for some precompile contract, the rest is same|:white_check_mark:|
 |[Local BSC Network](https://github.com/ConsenSys/local_ethereum_network)| User can simply set up a bsc network using clique consensus|:white_check_mark:|
 
-#### Test Ether faucets
+#### Test BNB&BEP20 faucets
 
 | Name  | Description  | Support |
 |  ---  |---|---|
