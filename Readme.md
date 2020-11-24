@@ -150,6 +150,7 @@ Binance Smart Chain Config:
 |[aragonCLI](https://github.com/aragon/aragon-cli) | aragonCLI is used to create and develop Aragon apps and organizations.| :white_check_mark: |
 |[ArcJS](https://github.com/daostack/arc.js) | Library that facilitates javascript application access to the DAOstack Arc ethereum smart contracts.| :white_check_mark: |
 |[Blocknative](https://blocknative.com) |Assist.js is an embeddable widget that improves Dapp usability. The tool programmatically identifies and outlines clear actions for end-users to follow when interacting with MetaMask to overcome — and even prevent — common pitfalls and obstacles.|:white_check_mark:|
+[Arkane](https://arkane.network)| Wallet provider for BSC Dapps, supports social login and BSC NFTs (ERC721 and ERC1155)|:white_check_mark:|
 
 #### Ethereum ABI (Application Binary Interface) tools
 
