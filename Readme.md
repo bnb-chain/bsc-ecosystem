@@ -30,6 +30,7 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
   * [Infrastructure](#infrastructure)
     + [Ethereum Clients](#ethereum-clients)
     + [Messaging](#messaging)
+    + [Data](#data)
   * [Testing Tools](#testing-tools)
   * [Security Tools](#security-tools)
   * [Monitoring](#monitoring)
@@ -180,6 +181,11 @@ Binance Smart Chain Config:
 |[DEVp2p Wire Protocol](https://github.com/ethereum/devp2p/blob/master/rlpx.md)| Peer-to-peer communications between nodes running Ethereum/Whisper| :heavy_check_mark:|
 |[Pydevp2p](https://github.com/ethereum/pydevp2p) | Python implementation of the RLPx network layer| :white_check_mark:|
 |[3Box Threads](https://docs.3box.io/api/messaging)| API to allow developers to implement IPFS persisted, or in memory peer to peer messaging.|:heavy_check_mark:|
+
+#### Data
+| Name  | Description  | Support|
+|  ---  |---|---|
+|[Bitquery](https://bitquery.io/)| GraphQL APIs to get historical and realtime Blockchain data |:heavy_check_mark:|
 
 ### Testing Tools
 | Name  | Description  | Support|
