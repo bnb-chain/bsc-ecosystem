@@ -226,6 +226,7 @@ Binance Smart Chain Config:
 | [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) | A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected |  :white_check_mark: |
 | [Free Smart Contract Security Audit](https://callisto.network/smart-contract-audit/) | Free smart contract security audits from Callisto Network |  :white_check_mark: |
 | [Piet](https://piet.slock.it) | A visual Solidity architecture analyzer |  :white_check_mark: |
+| [Coinpath](https://bitquery.io/products/coinpath) | Blockchain Tracing, investigtaion and Compliance APIs |  :heavy_check_mark: |
 
 ### Monitoring
 | Name  | Description  | Support|
