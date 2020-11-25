@@ -118,6 +118,7 @@ Binance Smart Chain Config:
 |[ethvtx](https://github.com/ticket721/ethvtx)| ethereum-ready & framework-agnostic redux store configuration. [docs](https://ticket721.github.io/ethvtx/)| :white_check_mark:|
 |[ChainAbstractionLayer](https://github.com/liquality/chainabstractionlayer)| Communicate with different blockchains (including Ethereum) using a single interface.| :white_check_mark:|
 |[Delphereum](https://github.com/svanas/delphereum)|a Delphi interface to the Ethereum blockchain that allows for development of native dApps for Windows, macOS, iOS, and Android.|:white_check_mark:|
+[Arkane](https://arkane.network)| Javascript Web3, MetaMask alternative, no extensions needed, cross browser support, works on mobile and web. Build for mainstream user adoption. Also offers rich backend APIs |:white_check_mark:|
 
 #### Backend BSC APIs
 | Name  | Description  | Support|
@@ -137,6 +138,7 @@ Binance Smart Chain Config:
 |[Ethereum Contract Service](https://github.com/mesg-foundation/service-ethereum-contract) |A MESG Service to interact with any Ethereum contract based on its address and ABI.| :white_check_mark:|
 |[Ethereum Service](https://github.com/mesg-foundation/service-ethereum)| A MESG Service to interact with events from Ethereum and interact with it.|:white_check_mark:|
 |[Marmo](https://marmo.io/)| Python, JS, and Java SDK for simplifying interactions with Ethereum. Uses relayers to offload transaction costs to relayers.|:white_check_mark:|
+[Arkane](https://arkane.network)| Set of APIs to query BSC, create wallets and perform transactions. API includes functions to create and manage ERC721 and ERC1155 NFTs on BSC. Also offers a rich frontend.|:white_check_mark:|
 
 #### Bootstrap/out of box tools
 | Name  | Description  | Support |
@@ -148,6 +150,7 @@ Binance Smart Chain Config:
 |[aragonCLI](https://github.com/aragon/aragon-cli) | aragonCLI is used to create and develop Aragon apps and organizations.| :white_check_mark: |
 |[ArcJS](https://github.com/daostack/arc.js) | Library that facilitates javascript application access to the DAOstack Arc ethereum smart contracts.| :white_check_mark: |
 |[Blocknative](https://blocknative.com) |Assist.js is an embeddable widget that improves Dapp usability. The tool programmatically identifies and outlines clear actions for end-users to follow when interacting with MetaMask to overcome — and even prevent — common pitfalls and obstacles.|:white_check_mark:|
+[Arkane](https://arkane.network)| Wallet provider for BSC Dapps, supports social login and BSC NFTs (ERC721 and ERC1155)|:white_check_mark:|
 
 #### Ethereum ABI (Application Binary Interface) tools
 
