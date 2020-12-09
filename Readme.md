@@ -81,7 +81,7 @@ Binance Smart Chain Config:
 ### Other tools
 | Name  | Description  | Support|
 |  ---  |---|---|
-|[Buidler](https://buidler.dev/)| Extensible developer tool that helps smart contract developers increase productivity by reliably bringing together the tools they want.| :heavy_check_mark: |
+|[hardhat](https://hardhat.org/)| Extensible developer tool that helps smart contract developers increase productivity by reliably bringing together the tools they want.| :heavy_check_mark: |
 |[Azure Blockchain Dev Kit for BSC for VSCode](https://marketplace.visualstudio.com/items?itemName=AzBlockchain.azure-blockchain)| VSCode extension that allows for creating smart contracts and deploying them inside of Visual Studio Code|:heavy_check_mark:|
 
 
