@@ -19,7 +19,7 @@ In the below sections you can find a list of different layers of the BSC Stack.
 |-|-|-
 | Desktop Wallets | [Mycrypto](https://download.mycrypto.com/), [Tokenpocket](https://www.tokenpocket.pro/en/download/pc)
 | Browser Extensions | [Binance Wallet](https://chrome.google.com/webstore/detail/binance-chain-wallet/fhbohimaelbohpjbbldcngcnapndodjp),[MetaMask](https://metamask.io/), [MathWallet](https://mathwallet.xyz/en/), [SafePal](https://www.safepal.io/)  
-| Mobile Wallets|  [MathWallet](https://mathwallet.xyz/en/), [TrustWallet](https://trustwallet.com/), [BitKeep](https://bitkeep.com/), [TokenPocket](https://www.tokenpocket.pro/), [SafePal](https://www.safepal.io/), [ONTO Wallet](https://www.onto.app/en), [Hyperpay](https://hyperpay.tech/), [AlphaWallet](https://alphawallet.com/), [Cobo](https://cobo.com/)  
+| Mobile Wallets|  [MathWallet](https://mathwallet.xyz/en/), [TrustWallet](https://trustwallet.com/), [BitKeep](https://bitkeep.com/), [TokenPocket](https://www.tokenpocket.pro/), [SafePal](https://www.safepal.io/), [ONTO Wallet](https://www.onto.app/en), [Hyperpay](https://hyperpay.tech/), [AlphaWallet](https://alphawallet.com/), [Cobo](https://cobo.com/), [Bridge Wallet](https://www.mtpelerin.com/bridge-wallet)
 | Web (burner) Wallets| [Torus](https://toruswallet.io/),[MyEtherWallet](myetherwallet.com)
 | CLI Wallet | [geth](https://github.com/binance-chain/bsc), [Seth](https://github.com/dapphub/dapptools/tree/master/src/seth)
 | Multisignature Wallets| [MultiSigWallet](https://github.com/gnosis/MultiSigWallet) | gnosis
@@ -88,7 +88,7 @@ Goto [BSC Developer Ecosystem](https://github.com/binance-chain/bsc-ecosystem/bl
 | Insurance | [Certik](https://www.certik.foundation/),[Helmet](https://app.helmet.insure/),[Soteria](https://soteria.finance/) | [Cover Protocol](https://www.coverprotocol.com/)
 | Derivatives | [Hedget](https://www.hedget.com/), [Mettalex](https://mettalex.com/), [Injective Protocol](https://injectiveprotocol.com/)| [Hegic](https://www.hegic.co/), [FinNexus Options](https://options.finnexus.io/)
 | Payment | [SWFT](https://www.swft.pro/zh-pc/#/home), [MultiSender](https://multisender.app/) | [Celer Network](https://www.celer.network/), [Connext](https://connext.network/)
-| Asset Tokenization | | [Harbor](https://harbor.com/), [Neufund](https://neufund.org/)
+| Asset Tokenization | [Bridge Protocol](https://www.mtpelerin.com/bridge-protocol) | [Harbor](https://harbor.com/), [Neufund](https://neufund.org/)
 
 ### :black_circle: Host
 
