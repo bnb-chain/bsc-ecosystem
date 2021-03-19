@@ -35,6 +35,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/).
 * [Defistation](https://www.defistation.io/)
 * [Bitquery](https://bitquery.io/blog/binance-smart-chain-api)
 * [DeBank](https://debank.com/projects?type=bsc)
+* [Dexguru](https://dex.guru/)
 
 ### Documentation
 
