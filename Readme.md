@@ -2,24 +2,24 @@
 
 The goal of this page is to provide the current status of the open-source Binance Smart Chain Tech  Stack and highlight the potential interesting projects that are most demanded by the BSC community and ecosystem.  
 
-## :clipboard: About 
+## :clipboard: About
 Binance Smart Chain is an Ethereum EVM 100% compatible blockchain, and is very good at decentralized application (Dapp) development within many possible verticals including DeFi, NFT, Gaming, and many others.
 
-To get a better understanding of the current BSC landscope, we divide each of the layers into the various components which we feel are most important. We then highlight some of the existing projects as well as **some potentially interesting** projects that we would like to fund by Binance Accelerator Funds. If you see a component with 0 or 1 existing projects then it's likely that we would consider grant support in this area. By describing our areas of priority in detail we do not wish to preclude grant applications that address different areas that we may not have thought of. We would like to fund all projects that bring value to the ecosystem. 
+To get a better understanding of the current BSC landscope, we divide each of the layers into the various components which we feel are most important. We then highlight some of the existing projects as well as **some potentially interesting** projects that we would like to fund by Binance Accelerator Funds. If you see a component with 0 or 1 existing projects then it's likely that we would consider grant support in this area. By describing our areas of priority in detail we do not wish to preclude grant applications that address different areas that we may not have thought of. We would like to fund all projects that bring value to the ecosystem.
 
-This is a living document and we are relying on our community to contribute to this and help maintain it. Please feel free to make edits and additions via pull requests. 
+This is a living document and we are relying on our community to contribute to this and help maintain it. Please feel free to make edits and additions via pull requests.
 
 ## :bookmark_tabs: Layers of BSC Stack
 
-In the below sections you can find a list of different layers of the BSC Stack. 
+In the below sections you can find a list of different layers of the BSC Stack.
 
 ### :iphone: Explorer and Wallets
 
 | Components | Existing projects | Potentially interesting projects
 |-|-|-
-| Desktop Wallets | [Mycrypto](https://download.mycrypto.com/), [Tokenpocket](https://www.tokenpocket.pro/en/download/pc)
+| Desktop Wallets | [Wise Safe](https://smart-binance.portonvictor.org/) (a port of Gnosis Safe), [Mycrypto](https://download.mycrypto.com/), [Tokenpocket](https://www.tokenpocket.pro/en/download/pc)
 | Browser Extensions | [Binance Wallet](https://chrome.google.com/webstore/detail/binance-chain-wallet/fhbohimaelbohpjbbldcngcnapndodjp),[MetaMask](https://metamask.io/), [MathWallet](https://mathwallet.xyz/en/), [SafePal](https://www.safepal.io/)  
-| Mobile Wallets|  [MathWallet](https://mathwallet.xyz/en/), [TrustWallet](https://trustwallet.com/), [BitKeep](https://bitkeep.com/), [TokenPocket](https://www.tokenpocket.pro/), [SafePal](https://www.safepal.io/), [ONTO Wallet](https://www.onto.app/en), [Hyperpay](https://hyperpay.tech/), [AlphaWallet](https://alphawallet.com/), [Cobo](https://cobo.com/)  
+| Mobile Wallets|  [MathWallet](https://mathwallet.xyz/en/), [TrustWallet](https://trustwallet.com/), [BitKeep](https://bitkeep.com/), [TokenPocket](https://www.tokenpocket.pro/), [SafePal](https://www.safepal.io/), [ONTO Wallet](https://www.onto.app/en), [Hyperpay](https://hyperpay.tech/), [AlphaWallet](https://alphawallet.com/), [Cobo](https://cobo.com/), [Bridge Wallet](https://www.mtpelerin.com/bridge-wallet)
 | Web (burner) Wallets| [Torus](https://toruswallet.io/),[MyEtherWallet](myetherwallet.com)
 | CLI Wallet | [geth](https://github.com/binance-chain/bsc), [Seth](https://github.com/dapphub/dapptools/tree/master/src/seth)
 | Multisignature Wallets| [MultiSigWallet](https://github.com/gnosis/MultiSigWallet) | gnosis
@@ -31,7 +31,7 @@ In the below sections you can find a list of different layers of the BSC Stack.
 ### :factory: Infrastructure
 | Components | Existing projects | Potentially interesting projects
 |-|-|-
-|API/Node access| [Ankr](https://www.ankr.com/),[NowNodes](https://nownodes.io/blog/binance-smart-chain-an-introduction),
+|API/Node access| [Ankr](https://www.ankr.com/),[NowNodes](https://nownodes.io/blog/binance-smart-chain-an-introduction),[QuikNode](https://www.quiknode.io/)
 |Public RPC Endpoints| [RPC Endpoints](https://docs.binance.org/smart-chain/developer/rpc.html)| More public nodes are encouraged
 |Community Polling Dashboard| [snapshot](https://snapshot.page/)
 |Gas Station Network| [opengsn](https://opengsn.org/)
@@ -40,7 +40,7 @@ In the below sections you can find a list of different layers of the BSC Stack.
 
 ### :wrench: Tools, APIs and Languages
 
-| Components | Existing projects | Potentially interesting projects 
+| Components | Existing projects | Potentially interesting projects
 |-|-|-
 | Smart Contract Languages | [Solidity](https://solidity.readthedocs.io/en/latest/), [Vyper](https://vyper.readthedocs.io/en/latest/)
 | Dev Frameworks | [Truffle](https://trufflesuite.com/),[Embark](https://github.com/embark-framework/embark),[Waffle](https://getwaffle.io/),[Dapp](https://dapp.tools/dapp/),[OpenZeppelin SDK](https://openzeppelin.com/sdk/),[hardhat](https://hardhat.org/)
@@ -54,7 +54,7 @@ In the below sections you can find a list of different layers of the BSC Stack.
 | Frontend BSC APIs | [Web3.js](https://github.com/ethereum/web3.js/), [Eth.js](https://github.com/ethjs), [Ethers.js](https://github.com/ethers-io/ethers.js/), [light.js](https://github.com/paritytech/js-libs/tree/master/packages/light.js)
 | Backend BSC APIs | [Web3.py](https://github.com/ethereum/web3.py), [Web3.php](https://github.com/sc0Vu/web3.php), [Java Web3](https://github.com/web3j/web3j), [Net Web3](https://nethereum.com/), [Ruby Web3](https://github.com/EthWorks/ethereum.rb)
 
-Goto [BSC Developer Ecosystem](https://github.com/binance-chain/bsc-ecosystem/blob/master/BSC_Develop_Ecosystem.md) to navigate the full list. 
+Goto [BSC Developer Ecosystem](https://github.com/binance-chain/bsc-ecosystem/blob/master/BSC_Develop_Ecosystem.md) to navigate the full list.
 
 ### :convenience_store: Dapps infra
 | Components | Existing projects | Potentially interesting projects
@@ -62,10 +62,10 @@ Goto [BSC Developer Ecosystem](https://github.com/binance-chain/bsc-ecosystem/bl
 | Data Analytics && Visualization| [BSC.NEWS](https://www.bsc.news/),[DappRadar](https://dappradar.com/rankings/protocol/binance-smart-chain),[dapp.com](https://www.dapp.com/search_product?chain=BSC),[CMC](https://coinmarketcap.com/yield-farming/),[dapp.review](https://dapp.review/explore/bsc),[DefiStation](https://www.defistation.io/),[BitQuery](https://bitquery.io/),[PARSIQ](https://www.parsiq.io/)
 | Oracle | [Band Protocol](https://bandprotocol.com/), [ChainLink](https://chain.link/), [Sphinx](https://m.sphinx.finance/)
 | File Storage, Cloud | |
-| Cross Chain Bridges | [Binance Bridge](https://www.binance.org/en/bridge), [AnySwap](https://anyswap.exchange/dashboard), [renVM](https://renproject.io/), [NerveNetwork](https://nerve.network/), [JellySwap](https://jelly.market/), [PolyNetwork](https://www.poly.network/) | Decentralized, trustless, Open Access| 
+| Cross Chain Bridges | [Binance Bridge](https://www.binance.org/en/bridge), [AnySwap](https://anyswap.exchange/dashboard), [renVM](https://renproject.io/), [NerveNetwork](https://nerve.network/), [JellySwap](https://jelly.market/), [PolyNetwork](https://www.poly.network/) | Decentralized, trustless, Open Access|
 | Randomness | | Trusless, Decentralized Randomness solution
 | Licensing |
-| Computation | 
+| Computation |
 | IoT | |
 
 ### :link: Dapps
@@ -75,7 +75,7 @@ Goto [BSC Developer Ecosystem](https://github.com/binance-chain/bsc-ecosystem/bl
 | Scalable Transactions | | roll-ups, DAG-based consensus mechanisms, side chains |
 | ZKP |  | [zkswap](https://zks.org/), [loopring](https://loopring.org/#/)
 | Identity/DID | [Ontology](https://ont.io/) | [Blockpass](https://blockpass.org/), [Bloom](https://bloom.co/), [Civic](https://www.civic.com/)
-| Social Networking | [prometeus](https://prometeus.io/)| 
+| Social Networking | [prometeus](https://prometeus.io/)|
 | Governance/DAO| [snapshot](https://snapshot.page/) [KOGE](https://www.bnb48.club)| [Aragon](https://aragon.org/), [DaoStack](https://daostack.io/)
 | Gaming | [RocketGame](https://rocketgame.vip/), [BambooSwap](https://bambooswap.org/), [Blink](https://blink.wink.org/), [Battle Pets](https://www.battlepets.finance/), [Arkane](https://arkane.network/), Curvegrid
 | NFT/Collectibles| [Alpaca.City](https://alpaca.city/), [Juggernaut JGN](https://jgndefi.com/), [Thugs.Fi](http://thugs.fi/), [Dego](https://dego.finance/), [NFTForGood.org](NFTForGood.org), [Bounce](https://bounce.finance/), [Arkane](https://arkane.network/), Curvegrid, ATTN| [Knownorigin](https://knownorigin.io/), [Rarible](https://rarible.com/), [Opensea](https://opensea.io/)
@@ -83,19 +83,20 @@ Goto [BSC Developer Ecosystem](https://github.com/binance-chain/bsc-ecosystem/bl
 | BTC | Binance BTC, [renBTC](https://renproject.io/), [anyBTC](https://anyswap.exchange/dashboard)|
 | Stablecoins | BUSD, [VAI](https://venus.io/), [QIAN](https://bsc.qian.finance/qian/home), [Ditto](https://ditto.money/), [bDollar](bdollar.fi)
 | Credit & Lending | [7up.finance](https://7up.finance/), [Cream.finance](Cream.finance), [ForTube](https://bsc.for.tube/), [Venus](https://venus.io/), [CokeFinance](https://cokefinance.com/)
-| Exchange & Liquidity | [BakerySwap](https://www.bakeryswap.org/),[Bounce.Finance](https://bsc.bounce.finance/),[BurgerSwap](https://burgerswap.org/),[DODO](https://app-bsc.dodoex.io/),[Equator.Finance](https://equator.finance/),[PancakeSwap](https://pancakeswap.finance/),[Spartan Protocol](https://spartanswap.com/),[bStable.finance](https://bstable.finance),[StableXSwap](https://stablexswap.com/),[Thugs.Fi](https://thugs.fi/),[Unisave](https://info.y3d.finance/home),[BestSwap](https://bsc.bestswap.com/swap/swap),[UniFi](https://www.unifiprotocol.com/),[Tenet](https://bsc.tenet.farm/),[UniTrade](https://unitrade.app/),[Rubic](https://rubic.exchange/),[Jetfuel](Jetfuel.Finance)
-| Earn & Aggregators | [Defi.money(YFII)](https://bsc.dfi.money/),[Dego](http://bsc.dego.finance/),[fry.World](https://fry.world/),[Xend Finance](https://xend.finance/),[OpenOcean](https://openocean.finance/network/bsc),[BeefyFinance](https://beefy.finance/),[dForce](https://staking.dforce.network/),[Pancakebunny](https://pancakebunny.finance/),[Reef.finance](https://reef.finance/),[Bearn.fi](https://bearn.fi/),[ACryptoS](https://acryptos.com/)
+| Exchange & Liquidity | [BakerySwap](https://www.bakeryswap.org/), [Bounce.Finance](https://bsc.bounce.finance/), [BurgerSwap](https://burgerswap.org/), [DODO](https://app-bsc.dodoex.io/), [Equator.Finance](https://equator.finance/), [PancakeSwap](https://pancakeswap.finance/), [Spartan Protocol](https://spartanswap.com/), [bStable.finance](https://bstable.finance), [StableXSwap](https://stablexswap.com/), [Thugs.Fi](https://thugs.fi/), [Unisave](https://info.y3d.finance/home), [BestSwap](https://bsc.bestswap.com/swap/swap), [UniFi](https://www.unifiprotocol.com/), [Tenet](https://bsc.tenet.farm/), [UniTrade](https://unitrade.app/), [Rubic](https://rubic.exchange/), [Jetfuel](Jetfuel.Finance), [Belt.fi](https://belt.fi/)
+| Earn & Aggregators | [Defi.money(YFII)](https://bsc.dfi.money/),[Dego](http://bsc.dego.finance/),[fry.World](https://fry.world/),[Xend Finance](https://xend.finance/),[OpenOcean](https://openocean.finance/network/bsc),[BeefyFinance](https://beefy.finance/),[dForce](https://staking.dforce.network/),[Pancakebunny](https://pancakebunny.finance/),[Reef.finance](https://reef.finance/),[Bearn.fi](https://bearn.fi/),[ACryptoS](https://acryptos.com/), [Dexguru](https://dex.guru/)
 | Insurance | [Certik](https://www.certik.foundation/),[Helmet](https://app.helmet.insure/),[Soteria](https://soteria.finance/) | [Cover Protocol](https://www.coverprotocol.com/)
 | Derivatives | [Hedget](https://www.hedget.com/), [Mettalex](https://mettalex.com/), [Injective Protocol](https://injectiveprotocol.com/)| [Hegic](https://www.hegic.co/), [FinNexus Options](https://options.finnexus.io/)
 | Payment | [SWFT](https://www.swft.pro/zh-pc/#/home), [MultiSender](https://multisender.app/) | [Celer Network](https://www.celer.network/), [Connext](https://connext.network/)
-| Asset Tokenization | | [Harbor](https://harbor.com/), [Neufund](https://neufund.org/)
+| Asset Tokenization | [Bridge Protocol](https://www.mtpelerin.com/bridge-protocol) | [Harbor](https://harbor.com/), [Neufund](https://neufund.org/)
 | Tools | [Unrekt](https://unrekt.net/) |
+
 
 ### :black_circle: Host
 
 | Components | Existing projects | Potentially interesting projects
 |-|-|-
-| Rust | 
+| Rust |
 | Go | [BSC](https://github.com/binance-chain/bsc)
 
 
@@ -103,6 +104,6 @@ Goto [BSC Developer Ecosystem](https://github.com/binance-chain/bsc-ecosystem/bl
 
 | Components | Existing projects | Potentially interesting projects
 |-|-|-
-| Easy multisig scheme | 
+| Easy multisig scheme |
 | Validator HSMs| |
 | Validator HSM-like solutions|
