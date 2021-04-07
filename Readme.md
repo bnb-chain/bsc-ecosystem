@@ -65,7 +65,7 @@ Goto [BSC Developer Ecosystem](https://github.com/binance-chain/bsc-ecosystem/bl
 | Cross Chain Bridges | [Binance Bridge](https://www.binance.org/en/bridge), [AnySwap](https://anyswap.exchange/dashboard), [renVM](https://renproject.io/), [NerveNetwork](https://nerve.network/), [JellySwap](https://jelly.market/), [PolyNetwork](https://www.poly.network/) | Decentralized, trustless, Open Access|
 | Randomness | | Trusless, Decentralized Randomness solution
 | Licensing |
-| Launchpads | | [DxSale](http://dxsale.app)
+| Launchpads | [DxSale](http://dxsale.app) | 
 | Computation |
 | IoT | |
 
