@@ -62,7 +62,7 @@ Goto [BSC Developer Ecosystem](https://github.com/binance-chain/bsc-ecosystem/bl
 | Data Analytics && Visualization| [BSC.NEWS](https://www.bsc.news/),[DappRadar](https://dappradar.com/rankings/protocol/binance-smart-chain),[dapp.com](https://www.dapp.com/search_product?chain=BSC),[CMC](https://coinmarketcap.com/yield-farming/),[dapp.review](https://dapp.review/explore/bsc),[DefiStation](https://www.defistation.io/),[BitQuery](https://bitquery.io/),[PARSIQ](https://www.parsiq.io/)
 | Oracle | [Band Protocol](https://bandprotocol.com/), [ChainLink](https://chain.link/), [Sphinx](https://m.sphinx.finance/)
 | File Storage, Cloud | |
-| Cross Chain Bridges | [Binance Bridge](https://www.binance.org/en/bridge), [AnySwap](https://anyswap.exchange/dashboard), [renVM](https://renproject.io/), [NerveNetwork](https://nerve.network/), [JellySwap](https://jelly.market/), [PolyNetwork](https://www.poly.network/) | Decentralized, trustless, Open Access|
+| Cross Chain Bridges | [Binance Bridge](https://www.binance.org/en/bridge), [AnySwap](https://anyswap.exchange/dashboard), [renVM](https://renproject.io/), [NerveNetwork](https://nerve.network/), [JellySwap](https://jelly.market/), [PolyNetwork](https://www.poly.network/), [Orbit Bridge](https://bridge.orbitchain.io/) | Decentralized, trustless, Open Access|
 | Randomness | | Trusless, Decentralized Randomness solution
 | Licensing |
 | Computation |
