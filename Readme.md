@@ -31,7 +31,7 @@ In the below sections you can find a list of different layers of the BSC Stack.
 ### :factory: Infrastructure
 | Components | Existing projects | Potentially interesting projects
 |-|-|-
-|API/Node access| [Ankr](https://www.ankr.com/),[NowNodes](https://nownodes.io/blog/binance-smart-chain-an-introduction),[QuikNode](https://www.quiknode.io/)
+|API/Node access| [Chainstack](https://chainstack.com/protocols/binance-smart-chain/),[Ankr](https://www.ankr.com/),[NowNodes](https://nownodes.io/blog/binance-smart-chain-an-introduction),[QuikNode](https://www.quiknode.io/)
 |Archive Node Service| [InfStones](https://infstones.com/)
 |Public RPC Endpoints| [RPC Endpoints](https://docs.binance.org/smart-chain/developer/rpc.html)| More public nodes are encouraged
 |Community Polling Dashboard| [snapshot](https://snapshot.page/)
