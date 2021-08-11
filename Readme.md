@@ -79,7 +79,7 @@ Goto [BSC Developer Ecosystem](https://github.com/binance-chain/bsc-ecosystem/bl
 | Identity/DID | [Ontology](https://ont.io/) | [Blockpass](https://blockpass.org/), [Bloom](https://bloom.co/), [Civic](https://www.civic.com/)
 | Social Networking | [prometeus](https://prometeus.io/)|
 | Governance/DAO| [snapshot](https://snapshot.page/) [KOGE](https://www.bnb48.club)| [Aragon](https://aragon.org/), [DaoStack](https://daostack.io/)
-| Gaming | [RocketGame](https://rocketgame.vip/), [BambooSwap](https://bambooswap.org/), [Blink](https://blink.wink.org/), [Battle Pets](https://www.battlepets.finance/), [Arkane](https://arkane.network/), Curvegrid
+| Gaming | [RocketGame](https://rocketgame.vip/), [BambooSwap](https://bambooswap.org/), [Blink](https://blink.wink.org/), [Battle Pets](https://www.battlepets.finance/), [Arkane](https://arkane.network/), Curvegrid, [MetaVoxel](https://snowcrash.finance/metavoxel/)
 | NFT/Collectibles| [Alpaca.City](https://alpaca.city/), [Juggernaut JGN](https://jgndefi.com/), [Thugs.Fi](http://thugs.fi/), [Dego](https://dego.finance/), [NFTForGood.org](NFTForGood.org), [Bounce](https://bounce.finance/), [Arkane](https://arkane.network/), Curvegrid, ATTN, [XWorld Games](https://xwg.games/)| [Knownorigin](https://knownorigin.io/), [Rarible](https://rarible.com/), [Opensea](https://opensea.io/)
 | Community & Fans | Realy, [Chilz](https://cryptologos.cc/chiliz)
 | BTC | Binance BTC, [renBTC](https://renproject.io/), [anyBTC](https://anyswap.exchange/dashboard)|
