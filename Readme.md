@@ -74,6 +74,7 @@ Goto [BSC Developer Ecosystem](https://github.com/binance-chain/bsc-ecosystem/bl
 
 | Components | Existing projects | Potentially interesting projects
 |-|-|-
+| Scholarships and Grants | [Atila](https://atila.ca/)|
 | Scalable Transactions | | roll-ups, DAG-based consensus mechanisms, side chains |
 | ZKP |  | [zkswap](https://zks.org/), [loopring](https://loopring.org/#/)
 | Identity/DID | [Ontology](https://ont.io/) | [Blockpass](https://blockpass.org/), [Bloom](https://bloom.co/), [Civic](https://www.civic.com/)
