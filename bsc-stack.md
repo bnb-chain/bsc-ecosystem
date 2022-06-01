@@ -29,13 +29,13 @@ In the below sections you can find a list of different layers of the BSC Stack.
 | Governance Dashboards | | UI for BSC proposal/vote
 
 ### :factory: Infrastructure
-| Components | Existing projects | Potentially interesting projects
-|-|-|-
-|API/Node access| [Ankr](https://www.ankr.com/),[NowNodes](https://nownodes.io/blog/binance-smart-chain-an-introduction),[QuikNode](https://www.quiknode.io/)
-|Public RPC Endpoints| [RPC Endpoints](https://docs.binance.org/smart-chain/developer/rpc.html)| More public nodes are encouraged
-|Community Polling Dashboard| [snapshot](https://snapshot.page/)
-|Gas Station Network| [opengsn](https://opengsn.org/)
-|Faucet| [faucet](https://testnet.binance.org/faucet-smart)
+| Components | Existing projects | Potentially interesting projects|
+|-|-|-|
+|API/Node access| [Ankr](https://www.ankr.com/),[NowNodes](https://nownodes.io/blog/binance-smart-chain-an-introduction),,[NodeReal](https://nodereal.io),[QuikNode](https://www.quiknode.io/) ||
+|Public RPC Endpoints| [RPC Endpoints](https://docs.binance.org/smart-chain/developer/rpc.html)| More public nodes are encouraged|
+|Community Polling Dashboard| [snapshot](https://snapshot.page/)||
+|Gas Station Network| [opengsn](https://opengsn.org/)||
+|Faucet| [faucet](https://testnet.binance.org/faucet-smart)||
 
 
 ### :wrench: Tools, APIs and Languages
