@@ -49,7 +49,10 @@ We separate the support of tools/infra into:
 Binance Smart Chain Config:
 
 - ChainId. Mainnet(56), Testnet(97).
-- RPC Endpoints. Mainnet(https://bsc-dataseed.binance.org/), Testnet(https://data-seed-prebsc-1-s1.binance.org:8545/). [More Endpoints](https://docs.binance.org/smart-chain/developer/rpc.html)
+- RPC Endpoints
+  - Mainnet(https://bsc-dataseed.binance.org/)
+  - Testnet(https://data-seed-prebsc-1-s1.binance.org:8545/)
+  - For More Endpoints, refer [here](https://docs.bnbchain.org/docs/rpc)
 - [Explorer](https://bscscan.com/)
 - [Faucet](https://testnet.binance.org/faucet-smart).
 
@@ -58,7 +61,7 @@ Binance Smart Chain Config:
 
 | Name  | Description  | Support|
 |  ---  |---|---|
-|  [Solidity](https://solidity.readthedocs.io/en/latest/)|Ethereum smart contracting language|:white_check_mark:|
+| [Solidity](https://solidity.readthedocs.io/en/latest/)|Ethereum smart contracting language|:white_check_mark:|
 | [Vyper](https://vyper.readthedocs.io/en/latest/) | New experimental pythonic programming language| :white_check_mark:|
 
 #### Frameworks
@@ -77,6 +80,8 @@ Binance Smart Chain Config:
 |  ---  |---|---|
 |[Remix](https://remix.ethereum.org/)| Web IDE with built in static analysis, test blockchain VM|:white_check_mark:|
 |Intellij Solidity Plugin| Open-source plug-in for [JetBrains IntelliJ Idea IDE](https://jetbrains.com/idea/)|:white_check_mark:|
+|[BSC Studio](https://bsc.ide.black/) | BNB Studio is an integrated development environment (IDE) making developing BNB smart contracts faster and easier.| :white_check_mark: |
+|[ChainIDE](https://chainide.com/)|A Web-based Cross-Chain Dapp Development IDE Platform|:white_check_mark:|
 
 ### Other tools
 | Name  | Description  | Support|
@@ -170,7 +175,7 @@ Binance Smart Chain Config:
 #### Ethereum Clients
 | Name  | Description  | Support|
 |  ---  |---|---|
-|[Seth](https://github.com/dapphub/dapptools/tree/master/src/seth)| Seth is an Ethereum client tool—like a "MetaMask for the command line"|:heavy_check_mark: |
+|[Seth](https://github.com/dapphub/dapptools/tree/master/src/seth)|Seth is an Ethereum client tool—like a "MetaMask for the command line"|:heavy_check_mark:|
 |[Ankr](https://www.ankr.com/) | support deploy BSC by one click, and provide instant API access to major blockchain and DeFi protocols.| :white_check_mark:|
 
 
@@ -186,6 +191,10 @@ Binance Smart Chain Config:
 | Name  | Description  | Support|
 |  ---  |---|---|
 |[Bitquery](https://bitquery.io/)| GraphQL APIs to get historical and realtime Blockchain data |:heavy_check_mark:|
+|[The Graph](https://thegraph.com/en/)| An indexing protocol that can be used to build open APIs (subgraphs) for querying BSC network.| :white_check_mark: |
+|[NFTscan](https://bnb.nftscan.com)|A NFT Explorer and Analytics Platform| :white_check_mark: |
+|[BlockVision](https://blockvision.org/) | A high-availability indexing network, supporting complex queries and data storage across multiple blockchains.|✅|
+
 
 ### Testing Tools
 | Name  | Description  | Support|
