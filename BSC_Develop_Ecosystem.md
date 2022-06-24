@@ -278,6 +278,7 @@ Binance Smart Chain Config:
 | [Wonka](https://github.com/Nethereum/Wonka) | Nethereum business rules engine demo/sample |  :white_check_mark:  |
 | [Resolver-Engine](https://github.com/Crypto-Punkers/resolver-engine) | A set of tools to standarize Solidity import and artifact resolution in frameworks. |  :white_check_mark:  |
 | [Ethereum-tx-sender](https://github.com/HydroProtocol/ethereum-tx-sender) | A useful library written in Golang to reliably send a transaction — abstracting away some of the tricky low level details such as gas optimization, nonce calculations, synchronization, and retries. |  :white_check_mark:  |
+| [Infinity Wallet Connector](https://www.npmjs.com/package/@infinitywallet/infinity-connector) | A Connector SDK for DApps & Web3 platforms to integrate Infinity Wallet connecting support |  :white_check_mark:  |
 
 
 #### Popular Smart Contract Libraries
