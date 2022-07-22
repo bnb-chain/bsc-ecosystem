@@ -194,6 +194,7 @@ Binance Smart Chain Config:
 |[The Graph](https://thegraph.com/en/)| An indexing protocol that can be used to build open APIs (subgraphs) for querying BSC network.| :white_check_mark: |
 |[NFTscan](https://bnb.nftscan.com)| A NFT Explorer and Analytics Platform | :white_check_mark: |
 |[BlockVision](https://blockvision.org/) | A high-availability indexing network, supporting complex queries and data storage across multiple blockchains.|✅|
+|[Covalent](https://www.covalenthq.com/docs/networks/bsc/) | One-stop shop for all BSC network data, including balances, transactions, log events, and NFT data, through a unified API.|✅|
 
 ### Testing Tools
 | Name  | Description  | Support|
