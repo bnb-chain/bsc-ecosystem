@@ -46,7 +46,7 @@ We separate the support of tools/infra into:
 - :white_check_mark: seamless support.
 - :heavy_check_mark: need custom config bsc network.
 
-Binance Smart Chain Config:
+BNB Smart Chain Config:
 
 - ChainId. Mainnet(56), Testnet(97).
 - RPC Endpoints
