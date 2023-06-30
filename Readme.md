@@ -1,11 +1,11 @@
 # Open Source BSC Ecosystem [WIP!]
 
-The goal of this page is to provide the current status of the open-source Binance Smart Chain Tech  Stack and highlight the potential interesting projects that are most demanded by the BSC community and ecosystem.  
+The goal of this page is to provide the current status of the open-source BNB Smart Chain Tech  Stack and highlight the potential interesting projects that are most demanded by the BSC community and ecosystem.
 
 ## :clipboard: About
-Binance Smart Chain is an Ethereum EVM 100% compatible blockchain, and is very good at decentralized application (Dapp) development within many possible verticals including DeFi, NFT, Gaming, and many others.
+BNB Smart Chain is an Ethereum EVM 100% compatible blockchain, and is very good at decentralized application (Dapp) development within many possible verticals including DeFi, NFT, Gaming, and many others.
 
-To get a better understanding of the current BSC landscope, we divide each of the layers into the various components which we feel are most important. We then highlight some of the existing projects as well as **some potentially interesting** projects that we would like to fund by Binance Accelerator Funds. If you see a component with 0 or 1 existing projects then it's likely that we would consider grant support in this area. By describing our areas of priority in detail we do not wish to preclude grant applications that address different areas that we may not have thought of. We would like to fund all projects that bring value to the ecosystem.
+To get a better understanding of the current BSC landscope, we divide each of the layers into the various components which we feel are most important. We then highlight some of the existing projects as well as **some potentially interesting** projects that we would like to fund by BNB Accelerator Funds. If you see a component with 0 or 1 existing projects then it's likely that we would consider grant support in this area. By describing our areas of priority in detail we do not wish to preclude grant applications that address different areas that we may not have thought of. We would like to fund all projects that bring value to the ecosystem.
 
 This is a living document and we are relying on our community to contribute to this and help maintain it. Please feel free to make edits and additions via pull requests.
 
@@ -18,7 +18,7 @@ In the below sections you can find a list of different layers of the BSC Stack.
 | Components | Existing projects | Potentially interesting projects
 |-|-|-
 | Desktop Wallets | [Wise Safe](https://smart-binance.portonvictor.org/) (a port of Gnosis Safe), [TokenPocket](https://www.tokenpocket.pro/en/download/pc), [infinity Wallet](https://infinitywallet.io/download/)
-| Browser Extensions | [Binance Wallet](https://chrome.google.com/webstore/detail/binance-chain-wallet/fhbohimaelbohpjbbldcngcnapndodjp), [MetaMask](https://metamask.io/), [MathWallet](https://mathwallet.xyz/en/), [SafePal](https://www.safepal.io/), [ezDeFi](https://chrome.google.com/webstore/detail/ezdefi/ejeemacpidnaejkhpbmfkadhgjhnolaa?hl=en), [BitKeep](https://bitkeep.com/), [Coin98](https://coin98.com/wallet), [Rabby Wallet](https://rabby.io/), [Onto](https://onto.app/), [Slope](https://slope.finance/)
+| Browser Extensions | [BNB Chain Wallet](https://chrome.google.com/webstore/detail/binance-chain-wallet/fhbohimaelbohpjbbldcngcnapndodjp), [MetaMask](https://metamask.io/), [MathWallet](https://mathwallet.xyz/en/), [SafePal](https://www.safepal.io/), [ezDeFi](https://chrome.google.com/webstore/detail/ezdefi/ejeemacpidnaejkhpbmfkadhgjhnolaa?hl=en), [BitKeep](https://bitkeep.com/), [Coin98](https://coin98.com/wallet), [Rabby Wallet](https://rabby.io/), [Onto](https://onto.app/), [Slope](https://slope.finance/)
 | Mobile Wallets|  [MathWallet](https://mathwallet.xyz/en/), [TrustWallet](https://trustwallet.com/), [BitKeep](https://bitkeep.com/), [TokenPocket](https://www.tokenpocket.pro/), [SafePal](https://www.safepal.io/), [ONTO Wallet](https://www.onto.app/en), [1Inch Wallet](https://1inch.io/wallet/), [Coin98](https://coin98.com/wallet), [Onto](https://onto.app/), [Slope](https://slope.finance/)
 | Web (burner) Wallets| [Torus](https://toruswallet.io/),[MyEtherWallet (MEW)](https://www.myetherwallet.com/), [Guarda](https://guarda.com/coins/binance-coin-wallet/)
 | CLI Wallet | [geth](https://github.com/bnb-chain/bsc), [Seth](https://github.com/dapphub/dapptools/tree/master/src/seth)
@@ -65,7 +65,7 @@ Goto [BSC Developer Ecosystem](https://github.com/binance-chain/bsc-ecosystem/bl
 |-|-|-
 | Data Analytics & Visualization| [The Graph](https://thegraph.com/en/),[DappRadar](https://dappradar.com/rankings/protocol/binance-smart-chain),[dapp.com](https://www.dapp.com/search_product?chain=BSC),[CMC](https://coinmarketcap.com/yield-farming/),[dapp.review](https://dapp.review/explore/bsc),[DefiStation](https://www.defistation.io/),[BitQuery](https://bitquery.io/),[PARSIQ](https://www.parsiq.io/), [CryptoSlam](https://cryptoslam.io/), [Nakji](https://nakji.network/), [Dune](http://dune.com/), [YeildWatch](https://www.yieldwatch.net/), [DeBank](http://debank.com/), [Bloxy](http://bloxy.info/), [Footprint Analytics](https://www.footprint.network/about), [Web3Go](https://web3go.xyz/)
 | NFT Marketplaces | [Rareboard](http://rareboard.com/), [Venly](https://www.venly.io/), [NFTrade](https://nftrade.com/), [Element](https://www.element.market/bsc)
-| Oracle | [Binance Oracle](https://oracle.binance.com/), [Band Protocol](https://bandprotocol.com/), [ChainLink](https://chain.link/), [Pyth](https://pyth.network/)
+| Oracle | [BNB Chain Oracle](https://oracle.binance.com/), [Band Protocol](https://bandprotocol.com/), [ChainLink](https://chain.link/), [Pyth](https://pyth.network/)
 | Archive Data |[InfStones](https://infstones.com/)
 | File Storage, Cloud | [IPFS](https://ipfs.io/), [Arweave](https://www.arweave.org/), [pinata.cloud](https://www.pinata.cloud/) 
 | Cross Chain Bridges | [AnySwap](https://anyswap.exchange/dashboard), [renVM](https://renproject.io/), [NerveNetwork](https://nerve.network/), [JellySwap](https://jelly.market/), [PolyNetwork](https://www.poly.network/), [Orbit Bridge](https://bridge.orbitchain.io/),  [LayerZero](https://layerzero.network/), [HashFlow](https://www.hashflow.com/), [ChainHop](https://chainhop.exchange/), [Multichain](https://multichain.xyz/), [Celer cbridge](https://cbridge.celer.network/), [Axelar](https://axelar.network/)  | Decentralized, trustless, Open Access|
@@ -85,7 +85,7 @@ Goto [BSC Developer Ecosystem](https://github.com/binance-chain/bsc-ecosystem/bl
 | Gaming | [RocketGame](https://rocketgame.vip/), [BambooSwap](https://bambooswap.org/), [Blink](https://blink.wink.org/), [Battle Pets](https://www.battlepets.finance/), [Arkane](https://arkane.network/), Curvegrid
 | NFT/Collectibles| [Alpaca.City](https://alpaca.city/), [Juggernaut JGN](https://jgndefi.com/), [Thugs.Fi](http://thugs.fi/), [Dego](https://dego.finance/), [NFTForGood.org](NFTForGood.org), [Bounce](https://bounce.finance/), [Arkane](https://arkane.network/), Curvegrid, ATTN, [XWorld Games](https://xwg.games/)| [Knownorigin](https://knownorigin.io/), [Rarible](https://rarible.com/), [Opensea](https://opensea.io/)
 | Community & Fans | Realy, [Chilz](https://cryptologos.cc/chiliz)
-| BTC | Binance BTC, [renBTC](https://renproject.io/), [anyBTC](https://anyswap.exchange/dashboard)|
+| BTC | BNB Chain BTC, [renBTC](https://renproject.io/), [anyBTC](https://anyswap.exchange/dashboard)|
 | Stablecoins | BUSD, [VAI](https://venus.io/), [QIAN](https://bsc.qian.finance/qian/home), [Ditto](https://ditto.money/), [bDollar](bdollar.fi)
 | Credit & Lending | [7up.finance](https://7up.finance/), [Cream.finance](Cream.finance), [ForTube](https://bsc.for.tube/), [Venus](https://venus.io/), [CokeFinance](https://cokefinance.com/)
 | Exchange & Liquidity | [BakerySwap](https://www.bakeryswap.org/), [Bounce.Finance](https://bsc.bounce.finance/), [BurgerSwap](https://burgerswap.org/), [DODO](https://app-bsc.dodoex.io/), [Equator.Finance](https://equator.finance/), [PancakeSwap](https://pancakeswap.finance/), [Spartan Protocol](https://spartanswap.com/), [bStable.finance](https://bstable.finance), [StableXSwap](https://stablexswap.com/), [Thugs.Fi](https://thugs.fi/), [Unisave](https://info.y3d.finance/home), [BestSwap](https://bsc.bestswap.com/swap/swap), [UniFi](https://www.unifiprotocol.com/), [Tenet](https://bsc.tenet.farm/), [UniTrade](https://unitrade.app/), [Rubic](https://rubic.exchange/), [Jetfuel](Jetfuel.Finance), [Belt.fi](https://belt.fi/), [Yogi](https://yogi.fi/)
@@ -93,7 +93,7 @@ Goto [BSC Developer Ecosystem](https://github.com/binance-chain/bsc-ecosystem/bl
 | Insurance | [Certik](https://www.certik.foundation/),[Helmet](https://app.helmet.insure/),[Soteria](https://soteria.finance/) | [Cover Protocol](https://www.coverprotocol.com/)
 | Derivatives | [Hedget](https://www.hedget.com/), [Mettalex](https://mettalex.com/), [Injective Protocol](https://injectiveprotocol.com/)| [Hegic](https://www.hegic.co/), [FinNexus Options](https://options.finnexus.io/)
 | Payment | [SWFT](https://www.swft.pro/zh-pc/#/home), [MultiSender](https://multisender.app/) | [Celer Network](https://www.celer.network/), [Connext](https://connext.network/)
-| Payment Gateway | [Binance Connect](https://www.binancecnt.com/en), [Okse](https://okse.io/), [Kado](https://www.kado.money/), [SuperFluid](https://www.superfluid.finance/home), [Pip](https://www.getpip.com/), [Bifinity](https://bifinity.com), [MoonPay](https://www.moonpay.com/), [Transak](https://transak.com/)
+| Payment Gateway | [BNB Chain Connect](https://www.binancecnt.com/en), [Okse](https://okse.io/), [Kado](https://www.kado.money/), [SuperFluid](https://www.superfluid.finance/home), [Pip](https://www.getpip.com/), [Bifinity](https://bifinity.com), [MoonPay](https://www.moonpay.com/), [Transak](https://transak.com/)
 | Asset Tokenization | [Bridge Protocol](https://www.mtpelerin.com/bridge-protocol) | [Harbor](https://harbor.com/), [Neufund](https://neufund.org/)
 | Tools | [Unrekt](https://unrekt.net/) |
 
