@@ -1,3 +1,4 @@
+**This repo is archived.**
 # Open Source BSC Ecosystem [WIP!]
 
 The goal of this page is to provide the current status of the open-source BNB Smart Chain Tech  Stack and highlight the potential interesting projects that are most demanded by the BSC community and ecosystem.
