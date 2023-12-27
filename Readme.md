@@ -67,7 +67,7 @@ Goto [BSC Developer Ecosystem](https://github.com/binance-chain/bsc-ecosystem/bl
 | NFT Marketplaces | [Rareboard](http://rareboard.com/), [Venly](https://www.venly.io/), [NFTrade](https://nftrade.com/), [Element](https://www.element.market/bsc)
 | Oracle | [BNB Chain Oracle](https://oracle.binance.com/), [Band Protocol](https://bandprotocol.com/), [ChainLink](https://chain.link/), [Pyth](https://pyth.network/)
 | Archive Data |[InfStones](https://infstones.com/)
-| File Storage, Cloud | [IPFS](https://ipfs.io/), [Arweave](https://www.arweave.org/), [pinata.cloud](https://www.pinata.cloud/) , [meson.network](https://meson.network/) 
+| File Storage, Cloud | [IPFS](https://ipfs.io/), [Arweave](https://www.arweave.org/), [pinata.cloud](https://www.pinata.cloud/), [meson.network](https://meson.network/), [spheron.network](https://spheron.network/)
 | Cross Chain Bridges | [AnySwap](https://anyswap.exchange/dashboard), [renVM](https://renproject.io/), [NerveNetwork](https://nerve.network/), [JellySwap](https://jelly.market/), [PolyNetwork](https://www.poly.network/), [Orbit Bridge](https://bridge.orbitchain.io/),  [LayerZero](https://layerzero.network/), [HashFlow](https://www.hashflow.com/), [ChainHop](https://chainhop.exchange/), [Multichain](https://multichain.xyz/), [Celer cbridge](https://cbridge.celer.network/), [Axelar](https://axelar.network/)  | Decentralized, trustless, Open Access|
 | NFT Marketplaces | [Rareboard](http://rareboard.com/), [Venly](https://www.venly.io/), [NFTrade](https://nftrade.com/), [Element](https://www.element.market/bsc)
 
