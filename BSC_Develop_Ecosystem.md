@@ -195,6 +195,7 @@ BNB Smart Chain Config:
 |[The Graph](https://thegraph.com/en/)| An indexing protocol that can be used to build open APIs (subgraphs) for querying BSC network.| :white_check_mark: |
 |[NFTscan](https://bnb.nftscan.com)| A NFT Explorer and Analytics Platform | :white_check_mark: |
 |[BlockVision](https://blockvision.org/) | A high-availability indexing network, supporting complex queries and data storage across multiple blockchains.|✅|
+|[SubQuery](https://subquery.network/)| A leading blockchain data indexer that provides developers with fast, flexible, universal, open source and decentralised APIs for BSC network.| :white_check_mark: |
 
 ### Testing Tools
 | Name  | Description  | Support|
