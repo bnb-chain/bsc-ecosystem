@@ -190,6 +190,7 @@ BNB Smart Chain Config:
 #### Data
 | Name  | Description  | Support|
 |  ---  |---|---|
+|[Moralis](https://moralis.io/)| Data APIs for Wallet, Portfolio, NFT, Token and other use cases |✅|
 |[Bitquery](https://bitquery.io/)| GraphQL APIs to get historical and realtime Blockchain data |:heavy_check_mark:|
 |[The Graph](https://thegraph.com/en/)| An indexing protocol that can be used to build open APIs (subgraphs) for querying BSC network.| :white_check_mark: |
 |[NFTscan](https://bnb.nftscan.com)| A NFT Explorer and Analytics Platform | :white_check_mark: |
