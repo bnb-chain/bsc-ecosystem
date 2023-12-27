@@ -32,7 +32,7 @@ In the below sections you can find a list of different layers of the BSC Stack.
 ### :factory: Infrastructure
 | Components | Existing projects | Potentially interesting projects
 |-|-|-
-|API/Node access| [Nodereal](https://nodereal.io/), [Ankr](https://www.ankr.com/), [Chainstack](https://chainstack.com/build-better-with-binance-smart-chain/), [NowNodes](https://nownodes.io/blog/binance-smart-chain-an-introduction), [QuickNode](https://www.quicknode.com/), [Covalent](https://www.covalenthq.com/), [Infstones](https://infstones.com/), [Moralis](http://moralis.io/)
+|API/Node access| [Nodereal](https://nodereal.io/), [Ankr](https://www.ankr.com/), [Chainstack](https://chainstack.com/build-better-with-binance-smart-chain/), [GetBlock](https://getblock.io/), [NowNodes](https://nownodes.io/blog/binance-smart-chain-an-introduction), [QuickNode](https://www.quicknode.com/), [Covalent](https://www.covalenthq.com/), [Infstones](https://infstones.com/), [Moralis](http://moralis.io/)
 | NFT APIs| [NFTScan](https://bnb.nftscan.com/), [BlockVision](https://blockvision.org/), [Venly](https://www.venly.io/), [Gomu](https://www.gomu.co/), [Bounce Finance](https://bounce.finance/), [NFTrade](https://nftrade.com/)
 |Archive Node Service| [Chainstack](https://chainstack.com/build-better-with-binance-smart-chain/), [InfStones](https://infstones.com/), [QuickNode](https://www.quicknode.com/), [Nodereal’s Meganode](https://docs.nodereal.io/nodereal/meganode/archive-node)
 |Public RPC Endpoints| [RPC Endpoints](https://docs.binance.org/smart-chain/developer/rpc.html)| More public nodes are encouraged
@@ -67,7 +67,7 @@ Goto [BSC Developer Ecosystem](https://github.com/binance-chain/bsc-ecosystem/bl
 | NFT Marketplaces | [Rareboard](http://rareboard.com/), [Venly](https://www.venly.io/), [NFTrade](https://nftrade.com/), [Element](https://www.element.market/bsc)
 | Oracle | [BNB Chain Oracle](https://oracle.binance.com/), [Band Protocol](https://bandprotocol.com/), [ChainLink](https://chain.link/), [Pyth](https://pyth.network/)
 | Archive Data |[InfStones](https://infstones.com/)
-| File Storage, Cloud | [IPFS](https://ipfs.io/), [Arweave](https://www.arweave.org/), [pinata.cloud](https://www.pinata.cloud/), [spheron.network](https://spheron.network/)
+| File Storage, Cloud | [IPFS](https://ipfs.io/), [Arweave](https://www.arweave.org/), [pinata.cloud](https://www.pinata.cloud/), [meson.network](https://meson.network/), [spheron.network](https://spheron.network/)
 | Cross Chain Bridges | [AnySwap](https://anyswap.exchange/dashboard), [renVM](https://renproject.io/), [NerveNetwork](https://nerve.network/), [JellySwap](https://jelly.market/), [PolyNetwork](https://www.poly.network/), [Orbit Bridge](https://bridge.orbitchain.io/),  [LayerZero](https://layerzero.network/), [HashFlow](https://www.hashflow.com/), [ChainHop](https://chainhop.exchange/), [Multichain](https://multichain.xyz/), [Celer cbridge](https://cbridge.celer.network/), [Axelar](https://axelar.network/)  | Decentralized, trustless, Open Access|
 | NFT Marketplaces | [Rareboard](http://rareboard.com/), [Venly](https://www.venly.io/), [NFTrade](https://nftrade.com/), [Element](https://www.element.market/bsc)
 
